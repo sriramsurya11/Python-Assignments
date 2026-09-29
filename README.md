@@ -133,7 +133,7 @@ print("List without duplicates:", unique_numbers)
 
 # Code
 ```
-dict1 = {"name": "Vasavi", "age": 21}
+dict1 = {"name": "sriram", "age": 21}
 dict2 = {"course": "CSE", "college": "Engineering College"}
 
 merged_dict = {**dict1, **dict2}
@@ -141,7 +141,8 @@ merged_dict = {**dict1, **dict2}
 print("Merged dictionary:", merged_dict)
 ```
 # Output
-<img width="1013" height="150" alt="image" src="https://github.com/user-attachments/assets/c5bbc2df-5333-404a-a28d-f6fd65cb14e1" />
+<img width="722" height="216" alt="image" src="https://github.com/user-attachments/assets/3b7ed510-8392-490f-a706-452d1abacf20" />
+
 
 # 10. Fibonacci series using recursion
 
