@@ -111,7 +111,7 @@ for char in text:
 print("Reversed string:", reversed_text)
 ```
 # Output
-<img width="1013" height="195" alt="image" src="https://github.com/user-attachments/assets/5402b299-6921-4e58-9f37-2aa5c71a4dc7" />
+<img width="330" height="125" alt="image" src="https://github.com/user-attachments/assets/37016e1a-d7ca-41d3-b229-37c711d0f347" />
 
 # 8. Remove duplicates from a list  
 
@@ -127,7 +127,7 @@ print("Original list:", numbers)
 print("List without duplicates:", unique_numbers)
 ```
 # Output
-<img width="1017" height="200" alt="image" src="https://github.com/user-attachments/assets/c7ed3c70-9a8a-477f-a73b-b868d8fb20bb" />
+<img width="545" height="201" alt="image" src="https://github.com/user-attachments/assets/e94eb693-0dc9-4499-b867-32797b62fa9b" />
 
 # 9. Merge two dictionaries 
 
